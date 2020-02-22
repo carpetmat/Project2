@@ -52,11 +52,13 @@ There does not appear to be a relationship between wind speed and rain rate. But
 Calculate and plot the monthly average of the wind speed and rain rate for each site
 What pattern do you see? Explain!
 
-For both Wind and Rain, it appears that there are high points in January, April, and September, by the in between months are much lower. With the Exception of for Rain, where rain picks up by a lot in December.
+        For both Wind and Rain, it appears that there are high points in January, April, and September, by the in between months
+        are much lower. With the Exception of for Rain, where rain picks up by a lot in December.
 
 
-        Wind appears highest on average for the offshore profiler, while Rain appears highest on average for the Shelf profiler.<br>
-        My presumption would be that this makes sense, as wind has less obstruction far out on the water. It’s been too long since<br>           my last science lesson regarding precipitation however to make any sort of reasonable presumption.
+        Wind appears highest on average for the offshore profiler, while Rain appears highest on average for the Shelf profiler.
+        My presumption would be that this makes sense, as wind has less obstruction far out on the water. It’s been too long since
+        my last science lesson regarding precipitation however to make any sort of reasonable presumption.
 
 
 Which month had the highest rain rate?
