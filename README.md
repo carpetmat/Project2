@@ -55,7 +55,7 @@ What pattern do you see? Explain!
 For both Wind and Rain, it appears that there are high points in January, April, and September, by the in between months are much lower. With the Exception of for Rain, where rain picks up by a lot in December.
 
 
-Wind appears highest on average for the offshore profiler, while Rain appears highest on average for the Shelf profiler. My presumption would be that this makes sense, as wind has less obstruction far out on the water. It’s been too long since my last science lesson regarding precipitation however to make any sort of reasonable presumption.
+        Wind appears highest on average for the offshore profiler, while Rain appears highest on average for the Shelf profiler. My presumption would be that this makes sense, as wind has less obstruction far out on the water. It’s been too long since my last science lesson regarding precipitation however to make any sort of reasonable presumption.
 
 
 Which month had the highest rain rate?
@@ -76,17 +76,17 @@ Which month had the lowest rain rate?
 
 Which month had the highest wind speed?
 
-For the OSSM: January
+                For the OSSM: January
 
-For the OOSM: October
+                For the OOSM: October
 
                         
 
 Which month had the lowest wind speed?
 
-For the OSSM: August
+                For the OSSM: August
 
-For the OOSM: September
+                For the OOSM: September
 
 
 
