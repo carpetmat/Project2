@@ -61,9 +61,9 @@ Wind appears highest on average for the offshore profiler, while Rain appears hi
 Which month had the highest rain rate?
                         
 
-For the OSSM, there is a rough tie for highest rain rate in January, September, and December.
+                For the OSSM, there is a rough tie for highest rain rate in January, September, and December.
 
-For the OOSM, December by far had the highest rain rate.
+                For the OOSM, December by far had the highest rain rate.
 
                         
 
